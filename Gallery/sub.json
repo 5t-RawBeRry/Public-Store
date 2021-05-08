@@ -1,0 +1,29 @@
+{
+    "name": "5t-RawBeRry",
+    "description": "Quantumult X Gallery subscribe self use.",
+    "task": [{
+        "config": "0 8 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=JD, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/jd.png",
+        "addons": "https://raw.githubusercontent.com/5t-RawBeRry/Public-Store/main/Gallery/Addons/JD_Remote_Cookie.conf, tag=JD Get Cookie"
+    }, {
+        "config": "2 9 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_bean_change.js, tag=JD Notification, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
+        "addons": "https://raw.githubusercontent.com/5t-RawBeRry/Public-Store/main/Gallery/Addons/JD_Remote_Cookie.conf, tag=JD Get Cookie"
+    }, {
+        "config": "10 8 * * * https://raw.githubusercontent.com/NobyDa/Script/master/Bilibili-DailyBonus/Manga.js, tag=BiliBili Comic, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/manga.png",
+        "addons": "https://raw.githubusercontent.com/5t-RawBeRry/Public-Store/main/Gallery/Addons/BiliBili-Comic_Remote_Cookie.conf, tag=BiliBili-Comic Get Cookie"
+    }, {
+        "config": "2 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.js, tag=BiliBili, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/bilibili.png",
+        "addons": "https://raw.githubusercontent.com/5t-RawBeRry/Public-Store/main/Gallery/Addons/BiliBili_Remote_Cookie.conf, tag=BiliBili Get Cookie"
+    }, {
+        "config": "3 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.silver2coin.js, tag=BiliBili2Coin, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/bilibili.png",
+        "addons": "https://raw.githubusercontent.com/5t-RawBeRry/Public-Store/main/Gallery/Addons/BiliBili_Remote_Cookie.conf, tag=BiliBili Get Cookie"
+    }, {
+        "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/quanx/neteasemusic.js, tag=NeteaseMusic, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/neteasemusic.png",
+        "addons": "https://raw.githubusercontent.com/5t-RawBeRry/Public-Store/main/Gallery/Addons/NeteaseMusic_Remote_Cookie.conf, tag=NeteaseMusic Get Cookie"
+    }, {
+        "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/mihoyo/mihoyo.js, tag=Mihoyo, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/mihoyo.png",
+        "addons": "https://raw.githubusercontent.com/5t-RawBeRry/Public-Store/main/Gallery/Addons/Mihoyo_Remote_Cookie.conf, tag=Mihoyo Get Cookie"
+    }, {
+        "config": "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/smzdm/quanx/smzdm.js, tag=SMZDM, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/smzdm.png",
+        "addons": "https://raw.githubusercontent.com/5t-RawBeRry/Public-Store/main/Gallery/Addons/SMZDM_Remote_Cookie.conf, tag=SMZDM Get Cookie"
+    }]
+}
