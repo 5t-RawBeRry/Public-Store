@@ -2,7 +2,7 @@
     "name": "5t-RawBeRry",
     "description": "Quantumult X Gallery subscribe self use.",
     "task": [{
-        "config": "0 9,18 * * 1-5 https://raw.githubusercontent.com/yichahucha/surge/master/clock_in.js, tag=Historical Price (More features), img-url=https://raw.githubusercontent.com/5t-RawBeRry/Public-Store/main/Gallery/Images/Historical-Price.png",
+        "config": "0 9,18 * * 1-5 https://raw.githubusercontent.com/yichahucha/surge/master/clock_in.js, tag=Historical Price (More features), img-url=https://i.loli.net/2021/05/08/wkSryQ9ijGKn3FA.png",
         "addons": "https://raw.githubusercontent.com/5t-RawBeRry/Public-Store/main/Gallery/Add-ons/Historical-Price_More-features.conf, tag=Historical Price (More features)"
     }, {
         "config": "0 8 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=JD, img-url=https://raw.githubusercontent.com/5t-RawBeRry/Public-Store/main/Gallery/Images/JD.png",
